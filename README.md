@@ -30,7 +30,7 @@ You've stumbled upon Ibrahim Radi's GitHub profile!
 [![Whatsapp URL](https://img.shields.io/static/v1?color=green&label=Whatsapp&logo=Whatsapp&logoColor=green&style=for-the-badge&message=Connect)](https://wa.me/201030882436?text=Hello)
 [![Telegram URL](https://img.shields.io/static/v1?color=green&label=Telegram&logo=Telegram&logoColor=blue&style=for-the-badge&message=Connect)](https://t.me/Ibrahim_radi)
 <br />
-[![Gmail URL](https://img.shields.io/static/v1?color=green&label=Gmail&logo=Gmail&logoColor=red&style=for-the-badge&message=Connect)](https://mail.google.com/mail/u/0/#sent?compose=VpCqJbPnZNrlkVXKKXBkcbkRDtwdjXwtdPWTrxfFdTCMdgHkTwTRXfcVsSpbDnNGkfCGSLL)
+[![Gmail URL](https://img.shields.io/static/v1?color=green&label=Gmail&logo=Gmail&logoColor=red&style=for-the-badge&message=Connect)](mialto:ibrahimmohammedradi@gmail.com)
 [![Github URL](https://img.shields.io/static/v1?color=green&label=Github&logo=Github&logoColor=purple&style=for-the-badge&message=Connect)](https://github.com/i-radi/)
 [![Stackoverflow URL](https://img.shields.io/static/v1?color=green&label=Stackoverflow&logo=Stackoverflow&logoColor=orange&style=for-the-badge&message=Connect)](https://stackoverflow.com/users/17031585/ibrahim-radi)
 
