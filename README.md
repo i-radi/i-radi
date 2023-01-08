@@ -12,8 +12,8 @@ You've stumbled upon Ibrahim Radi's GitHub profile!
 - 👯 I’m looking to collaborate on Web Development.
 - 🤔 I’m looking for help with Cloud Computing.
 - 💬 Ask me about Computer Science ,Architecture , Design Patterns.
-- 🥅 2022 Goals: Explore the more and more research of Cloud Computing, Infrastructure-based development
-, Front End Frameworks, Test-driven development, Time Series Analysis, Reading 10 Technical Books  etc.
+- 🥅 2023 Goals: Explore the more and more research of Cloud Computing, Infrastructure-based development, DDD
+, Front End Frameworks, Test-driven development, Time Series Analysis, Reading more 10 Technical Books  etc.
 - 😄 Pronouns: Freind
 - ⚡ Fun fact: Just Learn.
 - 📫 **How to reach me**: follow me from the below links :point_down: ,ibrahimmohammedradi@gmail.com, or Direct Call: +201030882436 , in addition to following me here.
