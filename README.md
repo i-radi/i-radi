@@ -12,7 +12,7 @@ You've stumbled upon Ibrahim Radi's GitHub profile!
 - 👯 I’m looking to collaborate on Web Development.
 - 🤔 I’m looking for help with Cloud Computing.
 - 💬 Ask me about Computer Science ,Architecture , Design Patterns.
-- 🥅 2023 Goals: Explore the more and more research of Cloud Computing, Infrastructure-based development, DDD
+- 🥅 2024 Goals: Explore the more and more research of Cloud Computing, Infrastructure-based development, DDD
 , Front End Frameworks, Test-driven development, Time Series Analysis, Reading more 10 Technical Books  etc.
 - 😄 Pronouns: Freind
 - ⚡ Fun fact: Just Learn.
