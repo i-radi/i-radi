@@ -28,10 +28,35 @@ I'm Ibrahim, a passionate Full Stack Developer diving into the depths of Cloud C
 - Also, don't forget to follow me here on GitHub!
 
 ### Connect with Me 🌐
-[LinkedIn](https://www.linkedin.com/in/i-radi/) · [Twitter](https://twitter.com/0Radi1) · [Goodreads](https://www.goodreads.com/ibrahim-radi) · [Facebook](https://www.facebook.com/0Radi1) · [Whatsapp](https://wa.me/201030882436?text=Hello) · [Telegram](https://t.me/Ibrahim_radi) · [GitHub](https://github.com/i-radi/) · [Stackoverflow](https://stackoverflow.com/users/17031585/ibrahim-radi)
+[![LinkedIn URL](https://img.shields.io/static/v1?color=green&label=linkedin&logo=linkedin&logoColor=blue&style=for-the-badge&message=Connect)](https://www.linkedin.com/in/i-radi/)
+[![Twitter URL](https://img.shields.io/static/v1?color=green&label=Twitter%20&logo=twitter&logoColor=9cf&style=for-the-badge&message=Follow)](https://twitter.com/0Radi1)
+[![Goodreads URL](https://img.shields.io/static/v1?color=green&label=Goodreads&logo=Goodreads&logoColor=red&style=for-the-badge&message=Connect)](https://www.goodreads.com/i-radi/)
+<br />
+[![Facebook URL](https://img.shields.io/static/v1?color=green&label=Facebook&logo=Facebook&logoColor=blue&style=for-the-badge&message=Connect)](https://www.facebook.com/0Radi1)
+[![Whatsapp URL](https://img.shields.io/static/v1?color=green&label=Whatsapp&logo=Whatsapp&logoColor=green&style=for-the-badge&message=Connect)](https://wa.me/201030882436?text=Hello)
+[![Telegram URL](https://img.shields.io/static/v1?color=green&label=Telegram&logo=Telegram&logoColor=blue&style=for-the-badge&message=Connect)](https://t.me/Ibrahim_radi)
+<br />
+[![Gmail URL](https://img.shields.io/static/v1?color=green&label=Gmail&logo=Gmail&logoColor=red&style=for-the-badge&message=Connect)](mialto:ibrahimmohammedradi@gmail.com)
+[![Github URL](https://img.shields.io/static/v1?color=green&label=Github&logo=Github&logoColor=purple&style=for-the-badge&message=Connect)](https://github.com/i-radi/)
+[![Stackoverflow URL](https://img.shields.io/static/v1?color=green&label=Stackoverflow&logo=Stackoverflow&logoColor=orange&style=for-the-badge&message=Connect)](https://stackoverflow.com/users/17031585/ibrahim-radi)
 
 ### Languages and Tools 🛠️
-![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=amazon-aws) ![Azure](https://img.shields.io/badge/-Azure-0089D6?style=flat-square&logo=microsoft-azure) ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3) ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![C#](https://img.shields.io/badge/-C%23-239120?style=flat-square&logo=c-sharp) ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white) ![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat-square&logo=sql&logoColor=white) ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white) ![Terminal](https://img.shields.io/badge/-Terminal-4D4D4D?style=flat-square&logo=terminal&logoColor=white)
+<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/aws/aws.png"></code>
+<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/azure/azure.png"></code>
+<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
+<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
+<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
+<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/csharp/csharp.png"></code>
+<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png"></code>
+<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png"></code>
+<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
+<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
+<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bash/bash.png"></code>
+<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
+<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/tensorflow/tensorflow.png"></code>
+<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/jupyter-notebook/jupyter-notebook.png"></code>
+<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png"></code>
+<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/atom/atom.png"></code>
 
 ### Stats 📈
 <a href="https://github.com/i-radi">
