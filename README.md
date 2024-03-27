@@ -1,67 +1,46 @@
-### Hi there 👋
+# Welcome to Ibrahim Radi's GitHub Profile! 👋
 
-***********************************
+I'm Ibrahim, a passionate Full Stack Developer diving into the depths of Cloud Computing and striving to collaborate on innovative Web Development projects. If you're curious about Computer Science, Architecture, Design Patterns, or the fascinating world of Cloud Computing, you're in the right place!
 
+### 🚀 Current Endeavors
+- Working on Full Stack Development projects.
+- Exploring Cloud technologies and applications.
 
-You've stumbled upon Ibrahim Radi's GitHub profile!
-***************************************************
+### 🌱 Learning Journey
+- Deepening my understanding of Cloud Computing.
+- Expanding my knowledge in Web Development, Infrastructure-based Development, Domain-Driven Design (DDD), Front End Frameworks, Test-Driven Development, Time Series Analysis, and more.
 
+### 👯 Collaboration
+- Looking to collaborate on Web Development projects.
+- Seeking help and advice on Cloud Computing.
 
-- 🔭 I’m currently working on Full Stack Development.
-- 🌱 I’m currently learning Cloud.
-- 👯 I’m looking to collaborate on Web Development.
-- 🤔 I’m looking for help with Cloud Computing.
-- 💬 Ask me about Computer Science ,Architecture , Design Patterns.
-- 🥅 2024 Goals: Explore the more and more research of Cloud Computing, Infrastructure-based development, DDD
-, Front End Frameworks, Test-driven development, Time Series Analysis, Reading more 10 Technical Books  etc.
-- 😄 Pronouns: Freind
-- ⚡ Fun fact: Just Learn.
-- 📫 **How to reach me**: follow me from the below links :point_down: ,ibrahimmohammedradi@gmail.com, or Direct Call: +201030882436 , in addition to following me here.
+### 📚 2024 Goals
+- To further my research in Cloud Computing and related fields.
+- To read at least 10 more technical books, enriching my knowledge and skills.
 
-<hr/>
+### 💬 Let's Talk!
+- Feel free to ask me about anything related to Computer Science, Architecture, and Design Patterns.
+- Reach out to me for a friendly chat or professional advice!
 
-## Contact Me
+### 📫 How to Reach Me
+- Email: ibrahimmohammedradi@gmail.com
+- Direct Call: +201030882436
+- Also, don't forget to follow me here on GitHub!
 
-[![LinkedIn URL](https://img.shields.io/static/v1?color=green&label=linkedin&logo=linkedin&logoColor=blue&style=for-the-badge&message=Connect)](https://www.linkedin.com/in/ibrahim-radi/)
-[![Twitter URL](https://img.shields.io/static/v1?color=green&label=Twitter%20&logo=twitter&logoColor=9cf&style=for-the-badge&message=Follow)](https://twitter.com/0Radi1)
-[![Goodreads URL](https://img.shields.io/static/v1?color=green&label=Goodreads&logo=Goodreads&logoColor=red&style=for-the-badge&message=Connect)](https://www.goodreads.com/ibrahim-radi/)
-<br />
-[![Facebook URL](https://img.shields.io/static/v1?color=green&label=Facebook&logo=Facebook&logoColor=blue&style=for-the-badge&message=Connect)](https://www.facebook.com/0Radi1)
-[![Whatsapp URL](https://img.shields.io/static/v1?color=green&label=Whatsapp&logo=Whatsapp&logoColor=green&style=for-the-badge&message=Connect)](https://wa.me/201030882436?text=Hello)
-[![Telegram URL](https://img.shields.io/static/v1?color=green&label=Telegram&logo=Telegram&logoColor=blue&style=for-the-badge&message=Connect)](https://t.me/Ibrahim_radi)
-<br />
-[![Gmail URL](https://img.shields.io/static/v1?color=green&label=Gmail&logo=Gmail&logoColor=red&style=for-the-badge&message=Connect)](mialto:ibrahimmohammedradi@gmail.com)
-[![Github URL](https://img.shields.io/static/v1?color=green&label=Github&logo=Github&logoColor=purple&style=for-the-badge&message=Connect)](https://github.com/i-radi/)
-[![Stackoverflow URL](https://img.shields.io/static/v1?color=green&label=Stackoverflow&logo=Stackoverflow&logoColor=orange&style=for-the-badge&message=Connect)](https://stackoverflow.com/users/17031585/ibrahim-radi)
+### Connect with Me 🌐
+[LinkedIn](https://www.linkedin.com/in/i-radi/) · [Twitter](https://twitter.com/0Radi1) · [Goodreads](https://www.goodreads.com/ibrahim-radi) · [Facebook](https://www.facebook.com/0Radi1) · [Whatsapp](https://wa.me/201030882436?text=Hello) · [Telegram](https://t.me/Ibrahim_radi) · [GitHub](https://github.com/i-radi/) · [Stackoverflow](https://stackoverflow.com/users/17031585/ibrahim-radi)
 
-<hr/>
+### Languages and Tools 🛠️
+![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=amazon-aws) ![Azure](https://img.shields.io/badge/-Azure-0089D6?style=flat-square&logo=microsoft-azure) ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3) ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![C#](https://img.shields.io/badge/-C%23-239120?style=flat-square&logo=c-sharp) ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white) ![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat-square&logo=sql&logoColor=white) ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white) ![Terminal](https://img.shields.io/badge/-Terminal-4D4D4D?style=flat-square&logo=terminal&logoColor=white)
 
-### Languages and tools
-
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/aws/aws.png"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/azure/azure.png"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/csharp/csharp.png"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bash/bash.png"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/tensorflow/tensorflow.png"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/jupyter-notebook/jupyter-notebook.png"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/atom/atom.png"></code>
-
-<!-- /https://github.com/anuraghazra/github-readme-stats#themes -->
-<hr/>
-
+### Stats 📈
 <a href="https://github.com/i-radi">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=i-radi&count_private=true&show_icons=true&theme=gruvbox&hide_border=false" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=i-radi&count_private=true&show_icons=true&theme=gruvbox" alt="Ibrahim's GitHub Stats" />
 </a>
-<a href="https://github.com/AhmedTawfiqM">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=i-radi&layout=compact&theme=synthwave&hide_border=false" />
+<a href="https://github.com/i-radi">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=i-radi&layout=compact&theme=synthwave" alt="Most Used Languages" />
 </a>
 
+---
+
+Thank you for visiting my profile! 😄 Let's connect and create something amazing together.
